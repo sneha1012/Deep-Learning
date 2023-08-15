@@ -1,2 +1,2 @@
 # Deep-Learning
-Implementaion of Deep learning algorithms
+Implementation of Deep learning algorithms

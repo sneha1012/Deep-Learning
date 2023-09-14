@@ -1,2 +1,2 @@
-#Machine Learning followed by Deep-Learning concepts
+# Deep-Learning and Machine learning cocepts
 Implementation of Machine learning and Deep learning algorithms 
